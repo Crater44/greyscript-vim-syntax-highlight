@@ -1,4 +1,4 @@
-# Greyscript custom vim syntax highlight
+# Greyscript custom vim syntax highlighting
 
 This is my custom greyscript vim/neovim tylored syntax file for this strange programming language.
 
