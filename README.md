@@ -20,3 +20,5 @@ Using vim:
 **filetype on** \
 **syntax on** \
 **autocmd BufRead,BufNewFile \*.src set filetype=greyscript**
+
+![highlighting example](/highlight_example.png?raw=true "highlighting example")
